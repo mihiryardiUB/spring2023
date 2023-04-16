@@ -1,6 +1,6 @@
 # Write a Brief Descriptive Title Here
 
-Authors:  **Name 1**, **Name 2**, etc.
+Authors:  **Mihir Prashant Yardi**, **NUrvi Chintamani Joshi**, **Puurus Wani Deshmukh**
 
 YouTube Video:  [Link](http://your_link_goes_here)
 
